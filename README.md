@@ -1,1 +1,3 @@
-# leaflet-challenge
+# Leaflet Challenge
+
+Located in this repo, is an HTML file along with its dependent folders, "css" and "js", both located within the "static" folder. The "css" folder contains the stylings while the "js" folder contains the logic/code for the visualization. The purpose of this challenge was to utilize HTML and JavaScript to produce a map that displays recent earthquake data acrross the globe. To achieve this goal, we deploy two JavaScript libraries, Leaflet and D3, to collect GeoJSON earthquake data from the United States Geological Survey (USGS) API endpoint and visualize this data on an interactive map. Markers were made at the locations of the earthquakes whose size was based on the magnitude and color was based on depth. The final product aims to help the USGS showcase their data in a user-friendly way.
